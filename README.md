@@ -59,4 +59,4 @@ This project is a Java-based system for managing car rental and sales operations
 
 ### Employee Login:
 ```java
-controller.login(); // Requires ID and password
+controller.login() // Requires ID and password
